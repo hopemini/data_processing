@@ -1,0 +1,11 @@
+Total ari Result Length : 10
+Top1 = jideca_b02r01re_34 : 0.279
+Top2 = jideca_b10r01re_34 : 0.267
+Top3 = jideca_b10r01se_34 : 0.243
+Top4 = jideca_b05r01se_34 : 0.243
+Top5 = jideca_b01r01re_34 : 0.241
+Top6 = jideca_b1r01se_34 : 0.224
+Top7 = jideca_b01r01se_34 : 0.223
+Top8 = jideca_b02r01se_34 : 0.220
+Top9 = jideca_b1r01re_34 : 0.202
+Top10 = jideca_b05r01re_34 : 0.186
