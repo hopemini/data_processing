@@ -96,6 +96,7 @@ plt.rc('figure', titlesize=BIGGER_SIZE)  # fontsize of the figure title
 
 # NMI
 plt.figure(figsize=(8,5))
+sns.set_style("ticks", {'axes.grid' : True})
 #sns.lineplot(x='simple', y='nmi', data=df_nmi.loc[df_nmi['types'] == 're'].sort_values(by='simple'))
 #sns.lineplot(x='simple', y='nmi', data=df_nmi.loc[df_nmi['types'] == 'se'].sort_values(by='simple'))
 sns.lineplot(x='simple', y='nmi', data=df_nmi.sort_values(by='simple'), hue='types', style='types', markers=True, markersize=14)
@@ -110,6 +111,7 @@ for i in df_nmi.groupby('types'):
 plt.ylim(0.42, 0.56)
 plt.ylabel('NMI', fontsize=16)
 plt.xlabel(None)
+plt.legend(loc='lower right')
 plt.savefig(args.dir + '_nmi_means.png', transparent=True)
 
 # ARI
@@ -126,6 +128,7 @@ for i in df_ari.groupby('types'):
 plt.ylim(0.16, 0.32)
 plt.ylabel('ARI', fontsize=16)
 plt.xlabel(None)
+plt.legend(loc='lower right')
 plt.savefig(args.dir + '_ari_means.png', transparent=True)
 
 # Purity
@@ -145,6 +148,7 @@ for i in df_purity.groupby('types'):
 plt.ylim(0.20, 0.36)
 plt.ylabel('Purity', fontsize=16)
 plt.xlabel(None)
+plt.legend(loc='lower right')
 plt.savefig(args.dir + '_purity_means.png', transparent=True)
 
 df_ari.to_csv(args.dir + '_ari_means.csv')

@@ -116,7 +116,7 @@ sns.boxplot(df_r['Number'])
 
 plt.figure(figsize=(10,5))
 sns.distplot(df_c['Number'])
-sns.distplot(df_r['Number'])
+sns.distplot(df_r['Number'], kde_kws={'linestyle':'--'})
 plt.legend(labels=["C23","R34"], title = "Category")
 plt.xlabel(None)
 plt.ylabel(None)
