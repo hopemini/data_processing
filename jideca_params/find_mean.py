@@ -97,9 +97,10 @@ plt.rc('figure', titlesize=BIGGER_SIZE)  # fontsize of the figure title
 # NMI
 plt.figure(figsize=(8,5))
 sns.set_style("ticks", {'axes.grid' : True})
+colors = ['#455E85', '#D68835']
 #sns.lineplot(x='simple', y='nmi', data=df_nmi.loc[df_nmi['types'] == 're'].sort_values(by='simple'))
 #sns.lineplot(x='simple', y='nmi', data=df_nmi.loc[df_nmi['types'] == 'se'].sort_values(by='simple'))
-sns.lineplot(x='simple', y='nmi', data=df_nmi.sort_values(by='simple'), hue='types', style='types', markers=True, markersize=14)
+sns.lineplot(x='simple', y='nmi', data=df_nmi.sort_values(by='simple'), palette=colors, hue='types', style='types', markers=True, markersize=14)
 for i in df_nmi.groupby('types'):
     for x,y,m in i[1][['simple','nmi','nmi']].values:
         if x == '0.1': i = 0
@@ -116,7 +117,7 @@ plt.savefig(args.dir + '_nmi_means.png', transparent=True)
 
 # ARI
 plt.figure(figsize=(8,5))
-sns.lineplot(x='simple', y='ari', data=df_ari.sort_values(by='simple'), hue='types', style='types', markers=True, markersize=14)
+sns.lineplot(x='simple', y='ari', data=df_ari.sort_values(by='simple'), palette=colors, hue='types', style='types', markers=True, markersize=14)
 for i in df_ari.groupby('types'):
     for x,y,m in i[1][['simple','ari','ari']].values:
         if x == '0.1': i = 0
@@ -136,7 +137,8 @@ plt.figure(figsize=(8,5))
 #sns.lineplot(x='simple', y='purity', data=df_purity.loc[df_purity['types'] == 're'].sort_values(by='simple'))
 #sns.lineplot(x='simple', y='purity', data=df_purity.loc[df_purity['types'] == 'se'].sort_values(by='simple'))
 #sns.lineplot(x='simple', y='purity', data=df_purity.sort_values(by='simple'), hue='types', style='types', markers=['o', '^'], markersize=14)
-sns.lineplot(x='simple', y='purity', data=df_purity.sort_values(by='simple'), hue='types', style='types', markers=True, markersize=14)
+colors = ['#D68835', '#455E85']
+sns.lineplot(x='simple', y='purity', data=df_purity.sort_values(by='simple'), palette=colors, hue='types', style='types', dashes=[(3, 2), (1, 0)], markers=['X', 'o'], markersize=14)
 for i in df_purity.groupby('types'):
     for x,y,m in i[1][['simple','purity','purity']].values:
         if x == '0.1': i = 0
