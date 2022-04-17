@@ -110,8 +110,8 @@ for i in df_nmi.groupby('types'):
         else: i = 4
         plt.text(i - 0.2 , y + 0.0051, m)
 plt.ylim(0.42, 0.56)
-plt.ylabel('NMI', fontsize=16)
-plt.xlabel(None)
+plt.ylabel('NMI' + r' ($\gamma$=0.1)', fontsize=16)
+plt.xlabel(r'$\beta$')
 plt.legend(loc='lower right')
 plt.savefig(args.dir + '_nmi_means.png', transparent=True)
 
@@ -127,8 +127,8 @@ for i in df_ari.groupby('types'):
         else: i = 4
         plt.text(i - 0.2 , y + 0.0051, m)
 plt.ylim(0.16, 0.32)
-plt.ylabel('ARI', fontsize=16)
-plt.xlabel(None)
+plt.ylabel('ARI' + r' ($\gamma$=0.1)', fontsize=16)
+plt.xlabel(r'$\beta$')
 plt.legend(loc='lower right')
 plt.savefig(args.dir + '_ari_means.png', transparent=True)
 
@@ -148,8 +148,8 @@ for i in df_purity.groupby('types'):
         else: i = 4
         plt.text(i - 0.2 , y + 0.0051, m)
 plt.ylim(0.20, 0.36)
-plt.ylabel('Purity', fontsize=16)
-plt.xlabel(None)
+plt.ylabel('Purity' + r' ($\gamma$=0.1)', fontsize=16)
+plt.xlabel(r'$\beta$')
 plt.legend(loc='lower right')
 plt.savefig(args.dir + '_purity_means.png', transparent=True)
 
