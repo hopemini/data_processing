@@ -39,7 +39,7 @@ for i, v in enumerate(df_c['Number']):
 plt.xlabel(None)
 plt.ylabel(None)
 plt.ylim(0, 50)
-plt.savefig('c23_bar.png', bbox_inches='tight', transparent=True)
+plt.savefig('../result/c23_bar.png', bbox_inches='tight', transparent=True)
 
 plt.figure(figsize=(15,4))
 plt.xticks(rotation=90)
@@ -50,7 +50,7 @@ for i, v in enumerate(df_r['Number']):
 plt.xlabel(None)
 plt.ylabel(None)
 plt.ylim(0, 60)
-plt.savefig('r34_bar.png', bbox_inches='tight', transparent=True)
+plt.savefig('../result/r34_bar.png', bbox_inches='tight', transparent=True)
 
 plt.figure(figsize=(15,4))
 gs = gridspec.GridSpec(1, 2, width_ratios=[3, 1]) 
@@ -67,7 +67,7 @@ plt.subplot(gs[1])
 ax = sns.distplot(df_c['Number'])
 ax.set(xlabel=None)
 ax.set(ylabel=None)
-plt.savefig('c23_dist.png', bbox_inches='tight', transparent=True)
+plt.savefig('../result/c23_dist.png', bbox_inches='tight', transparent=True)
 
 
 plt.figure(figsize=(15,3))
@@ -94,7 +94,7 @@ plt.subplot(gs[1])
 ax = sns.distplot(df_r['Number'])
 ax.set(xlabel=None)
 ax.set(ylabel=None)
-plt.savefig('r34_dist.png', bbox_inches='tight', transparent=True)
+plt.savefig('../result/r34_dist.png', bbox_inches='tight', transparent=True)
 
 
 plt.figure(figsize=(15,3))
@@ -120,4 +120,4 @@ sns.distplot(df_r['Number'], kde_kws={'linestyle':'--'})
 plt.legend(labels=["C23","R34"], title = "Category")
 plt.xlabel(None)
 plt.ylabel(None)
-plt.savefig('c23_r34_dist.png', bbox_inches='tight', transparent=True)
+plt.savefig('../result/c23_r34_dist.png', bbox_inches='tight', transparent=True)
