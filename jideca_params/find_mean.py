@@ -5,7 +5,7 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 
 par = argparse.ArgumentParser()
-par.add_argument("-d", "--dir", default="beta", choices=["beta", "gamma"],
+par.add_argument("-d", "--dir", default="gamma_01", choices=["beta_10", "beta_05", "beta_02", "gamma_01"],
                  type=str, help="Select directory (beta, gamma)")
 args = par.parse_args()
 
