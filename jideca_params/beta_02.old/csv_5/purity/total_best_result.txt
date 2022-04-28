@@ -1,6 +1,0 @@
-Total purity Result Length : 5
-Top1 = jideca_b02g05re_34 : 35.8%
-Top2 = jideca_b02g01re_34 : 33.2%
-Top3 = jideca_b02g1re_34 : 25.4%
-Top4 = jideca_b02g02re_34 : 24.8%
-Top5 = jideca_b02g10re_34 : 20.9%
