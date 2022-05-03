@@ -1,0 +1,19 @@
+type,eval,eval_values
+seq2seq,ARI (GMM),0.305
+Semantic,ARI (GMM),0.336
+Real,ARI (GMM),0.205
+seq2seq,ARI (KM),0.314
+Semantic,ARI (KM),0.333
+Real,ARI (KM),0.21
+seq2seq,NMI (GMM),0.567
+Semantic,NMI (GMM),0.626
+Real,NMI (GMM),0.517
+seq2seq,NMI (KM),0.574
+Semantic,NMI (KM),0.627
+Real,NMI (KM),0.521
+seq2seq,Purity (GMM),0.407
+Semantic,Purity (GMM),0.456
+Real,Purity (GMM),0.314
+seq2seq,Purity (KM),0.419
+Semantic,Purity (KM),0.449
+Real,Purity (KM),0.317
