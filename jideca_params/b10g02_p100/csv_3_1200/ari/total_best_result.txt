@@ -1,0 +1,2 @@
+Total ari Result Length : 1
+Top1 = jideca_b10g02se_34 : 0.243
