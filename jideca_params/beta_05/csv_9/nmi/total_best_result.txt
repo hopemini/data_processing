@@ -1,6 +1,6 @@
 Total nmi Result Length : 5
-Top1 = jideca_b05g01se_34 : 0.486
-Top2 = jideca_b05g1se_34 : 0.479
-Top3 = jideca_b05g05se_34 : 0.475
-Top4 = jideca_b05g02se_34 : 0.459
-Top5 = jideca_b05g10se_34 : 0.384
+Top1 = jideca_b05g05se_34 : 0.561
+Top2 = jideca_b05g01se_34 : 0.558
+Top3 = jideca_b05g1se_34 : 0.533
+Top4 = jideca_b05g02se_34 : 0.528
+Top5 = jideca_b05g10se_34 : 0.348

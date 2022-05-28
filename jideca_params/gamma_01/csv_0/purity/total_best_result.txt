@@ -1,11 +1,11 @@
 Total purity Result Length : 10
-Top1 = jideca_b02r01re_34 : 35.6%
-Top2 = jideca_b10r01se_34 : 35.5%
-Top3 = jideca_b01r01se_34 : 32.9%
-Top4 = jideca_b01r01re_34 : 30.6%
-Top5 = jideca_b10r01re_34 : 29.2%
-Top6 = jideca_b1r01se_34 : 29.1%
-Top7 = jideca_b02r01se_34 : 27.0%
-Top8 = jideca_b05r01se_34 : 25.0%
-Top9 = jideca_b1r01re_34 : 25.0%
-Top10 = jideca_b05r01re_34 : 23.1%
+Top1 = jideca_b01g01se_34 : 35.4%
+Top2 = jideca_b1g01se_34 : 34.0%
+Top3 = jideca_b02g01re_34 : 33.6%
+Top4 = jideca_b10g01re_34 : 32.6%
+Top5 = jideca_b10g01se_34 : 31.6%
+Top6 = jideca_b05g01se_34 : 31.4%
+Top7 = jideca_b02g01se_34 : 30.9%
+Top8 = jideca_b05g01re_34 : 28.3%
+Top9 = jideca_b1g01re_34 : 26.6%
+Top10 = jideca_b01g01re_34 : 26.0%

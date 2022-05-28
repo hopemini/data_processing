@@ -1,11 +1,11 @@
 Total ari Result Length : 10
-Top1 = jideca_b02r01re_34 : 0.285
-Top2 = jideca_b10r01re_34 : 0.257
-Top3 = jideca_b05r01se_34 : 0.248
-Top4 = jideca_b01r01re_34 : 0.241
-Top5 = jideca_b10r01se_34 : 0.234
-Top6 = jideca_b1r01se_34 : 0.224
-Top7 = jideca_b02r01se_34 : 0.221
-Top8 = jideca_b01r01se_34 : 0.220
-Top9 = jideca_b1r01re_34 : 0.197
-Top10 = jideca_b05r01re_34 : 0.195
+Top1 = jideca_b02g01re_34 : 0.359
+Top2 = jideca_b01g01re_34 : 0.314
+Top3 = jideca_b10g01re_34 : 0.307
+Top4 = jideca_b05g01se_34 : 0.295
+Top5 = jideca_b10g01se_34 : 0.290
+Top6 = jideca_b02g01se_34 : 0.290
+Top7 = jideca_b1g01se_34 : 0.274
+Top8 = jideca_b01g01se_34 : 0.269
+Top9 = jideca_b05g01re_34 : 0.248
+Top10 = jideca_b1g01re_34 : 0.225
