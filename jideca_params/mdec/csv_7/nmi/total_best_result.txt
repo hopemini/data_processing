@@ -1,0 +1,7 @@
+Total nmi Result Length : 6
+Top1 = jideca_midec_re_34 : 0.586
+Top2 = jideca_mdeca_se_34 : 0.553
+Top3 = jideca_mdec_re_34 : 0.518
+Top4 = jideca_midec_se_34 : 0.417
+Top5 = jideca_mdec_se_34 : 0.414
+Top6 = jideca_mdeca_re_34 : 0.299

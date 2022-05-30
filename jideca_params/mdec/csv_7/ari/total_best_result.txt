@@ -1,0 +1,7 @@
+Total ari Result Length : 6
+Top1 = jideca_midec_re_34 : 0.331
+Top2 = jideca_mdeca_se_34 : 0.287
+Top3 = jideca_mdec_re_34 : 0.226
+Top4 = jideca_midec_se_34 : 0.093
+Top5 = jideca_mdec_se_34 : 0.076
+Top6 = jideca_mdeca_re_34 : 0.072
