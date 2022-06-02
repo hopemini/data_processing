@@ -1,0 +1,15 @@
+Total purity Result Length : 14
+Top1 = jideca_mdecseq2seq_se_34 : 40.7%
+Top2 = jideca_dec_se_34 : 36.7%
+Top3 = jideca_mdecawe_se_34 : 36.7%
+Top4 = jideca_midecawe_se_34 : 36.6%
+Top5 = jideca_idec_se_34 : 35.6%
+Top6 = jideca_idec_re_34 : 34.3%
+Top7 = jideca_midecawe_re_34 : 32.7%
+Top8 = jideca_midecseq2seq_re_34 : 32.5%
+Top9 = jideca_dec_re_34 : 30.8%
+Top10 = jideca_mdecseq2seq_re_34 : 29.2%
+Top11 = jideca_mdecawe_re_34 : 27.9%
+Top12 = jideca_midecseq2seq_se_34 : 27.8%
+Top13 = jideca_dec_dnn_34 : 20.8%
+Top14 = jideca_idec_dnn_34 : 9.5%

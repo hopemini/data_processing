@@ -1,0 +1,15 @@
+Total ari Result Length : 14
+Top1 = jideca_mdecawe_se_34 : 0.381
+Top2 = jideca_mdecseq2seq_se_34 : 0.381
+Top3 = jideca_idec_se_34 : 0.376
+Top4 = jideca_dec_se_34 : 0.353
+Top5 = jideca_midecawe_se_34 : 0.330
+Top6 = jideca_idec_re_34 : 0.302
+Top7 = jideca_mdecseq2seq_re_34 : 0.283
+Top8 = jideca_midecawe_re_34 : 0.272
+Top9 = jideca_midecseq2seq_re_34 : 0.257
+Top10 = jideca_mdecawe_re_34 : 0.253
+Top11 = jideca_dec_re_34 : 0.234
+Top12 = jideca_midecseq2seq_se_34 : 0.221
+Top13 = jideca_dec_dnn_34 : 0.063
+Top14 = jideca_idec_dnn_34 : 0.027

@@ -1,0 +1,15 @@
+Total nmi Result Length : 14
+Top1 = jideca_mdecseq2seq_se_34 : 0.630
+Top2 = jideca_mdecawe_se_34 : 0.627
+Top3 = jideca_dec_se_34 : 0.610
+Top4 = jideca_idec_se_34 : 0.608
+Top5 = jideca_midecawe_se_34 : 0.590
+Top6 = jideca_midecseq2seq_se_34 : 0.563
+Top7 = jideca_midecawe_re_34 : 0.531
+Top8 = jideca_mdecawe_re_34 : 0.519
+Top9 = jideca_idec_re_34 : 0.516
+Top10 = jideca_mdecseq2seq_re_34 : 0.514
+Top11 = jideca_midecseq2seq_re_34 : 0.513
+Top12 = jideca_dec_re_34 : 0.487
+Top13 = jideca_dec_dnn_34 : 0.306
+Top14 = jideca_idec_dnn_34 : 0.174
