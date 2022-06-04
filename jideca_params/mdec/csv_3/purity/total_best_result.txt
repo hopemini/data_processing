@@ -1,7 +1,7 @@
 Total purity Result Length : 6
 Top1 = jideca_mdeca_se_34 : 35.0%
 Top2 = jideca_midec_re_34 : 31.1%
-Top3 = jideca_mdec_re_34 : 23.1%
-Top4 = jideca_mdeca_re_34 : 20.0%
+Top3 = jideca_mdeca_re_34 : 26.5%
+Top4 = jideca_mdec_re_34 : 23.1%
 Top5 = jideca_midec_se_34 : 19.9%
 Top6 = jideca_mdec_se_34 : 17.1%

@@ -3,5 +3,5 @@ Top1 = jideca_midec_re_34 : 0.601
 Top2 = jideca_midec_se_34 : 0.533
 Top3 = jideca_mdeca_se_34 : 0.527
 Top4 = jideca_mdec_re_34 : 0.515
-Top5 = jideca_mdec_se_34 : 0.417
-Top6 = jideca_mdeca_re_34 : 0.327
+Top5 = jideca_mdeca_re_34 : 0.513
+Top6 = jideca_mdec_se_34 : 0.417
