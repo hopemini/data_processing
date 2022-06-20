@@ -1,0 +1,13 @@
+Total purity Result Length : 12
+Top1 = jideca_mdec_se_23 : 39.0%
+Top2 = jideca_idec_se_23 : 34.0%
+Top3 = jideca_idec_re_23 : 31.4%
+Top4 = jideca_dec_se_23 : 29.7%
+Top5 = jideca_midec_re_23 : 29.0%
+Top6 = jideca_mdeca_re_23 : 27.3%
+Top7 = jideca_mdeca_se_23 : 26.0%
+Top8 = jideca_midec_se_23 : 25.7%
+Top9 = jideca_dec_re_23 : 23.6%
+Top10 = jideca_mdec_re_23 : 22.4%
+Top11 = jideca_dec_dnn_23 : 21.3%
+Top12 = jideca_idec_dnn_23 : 19.0%

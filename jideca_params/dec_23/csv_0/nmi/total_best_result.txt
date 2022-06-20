@@ -1,0 +1,13 @@
+Total nmi Result Length : 12
+Top1 = jideca_midec_re_23 : 0.545
+Top2 = jideca_mdec_se_23 : 0.508
+Top3 = jideca_midec_se_23 : 0.490
+Top4 = jideca_mdeca_re_23 : 0.487
+Top5 = jideca_mdeca_se_23 : 0.483
+Top6 = jideca_idec_se_23 : 0.479
+Top7 = jideca_idec_re_23 : 0.455
+Top8 = jideca_dec_se_23 : 0.430
+Top9 = jideca_dec_re_23 : 0.396
+Top10 = jideca_mdec_re_23 : 0.319
+Top11 = jideca_idec_dnn_23 : 0.296
+Top12 = jideca_dec_dnn_23 : 0.284

@@ -1,0 +1,13 @@
+Total ari Result Length : 12
+Top1 = jideca_mdec_se_23 : 0.282
+Top2 = jideca_midec_re_23 : 0.264
+Top3 = jideca_mdeca_se_23 : 0.260
+Top4 = jideca_midec_se_23 : 0.233
+Top5 = jideca_idec_se_23 : 0.233
+Top6 = jideca_idec_re_23 : 0.224
+Top7 = jideca_mdeca_re_23 : 0.214
+Top8 = jideca_dec_se_23 : 0.191
+Top9 = jideca_dec_re_23 : 0.184
+Top10 = jideca_mdec_re_23 : 0.044
+Top11 = jideca_dec_dnn_23 : 0.038
+Top12 = jideca_idec_dnn_23 : 0.035
