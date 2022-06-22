@@ -1,0 +1,9 @@
+Total purity Result Length : 8
+Top1 = jideca_mdecawe_se_23 : 45.7%
+Top2 = jideca_midecawe_se_23 : 39.0%
+Top3 = jideca_midecawe_re_23 : 36.6%
+Top4 = jideca_mdecseq2seq_se_23 : 32.7%
+Top5 = jideca_mdecawe_re_23 : 30.6%
+Top6 = jideca_midecseq2seq_se_23 : 25.4%
+Top7 = jideca_midecseq2seq_re_23 : 24.6%
+Top8 = jideca_mdecseq2seq_re_23 : 22.7%
