@@ -1,0 +1,11 @@
+,parameters,nmi,simple,types
+0,jideca_b05g01re_23,0.579,0.5,real
+1,jideca_b10g01re_23,0.551,10,real
+2,jideca_b1g01re_23,0.525,1,real
+3,jideca_b01g01re_23,0.531,0.1,real
+4,jideca_b02g01re_23,0.511,0.2,real
+5,jideca_b1g01se_23,0.495,1,semantic
+6,jideca_b05g01se_23,0.486,0.5,semantic
+7,jideca_b01g01se_23,0.459,0.1,semantic
+8,jideca_b10g01se_23,0.431,10,semantic
+9,jideca_b02g01se_23,0.421,0.2,semantic
