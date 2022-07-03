@@ -1,0 +1,11 @@
+,parameters,purity,simple,types
+0,jideca_b10g01re_34,0.325,0.1,real
+1,jideca_b10g01se_34,0.312,0.1,semantic
+2,jideca_b10g1se_34,0.322,1,semantic
+3,jideca_b10g05se_34,0.319,0.5,semantic
+4,jideca_b10g02re_34,0.286,0.2,real
+5,jideca_b10g02se_34,0.271,0.2,semantic
+6,jideca_b10g05re_34,0.238,0.5,real
+7,jideca_b10g10re_34,0.201,10,real
+8,jideca_b10g1re_34,0.187,1,real
+9,jideca_b10g10se_34,0.201,10,semantic

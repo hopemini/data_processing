@@ -1,0 +1,16 @@
+,parameters,nmi,simple,types
+0,jideca_b01g01re_34,0.598,0.1,real
+1,jideca_b1g05re_34,0.584,0.5,real
+2,jideca_b01g05re_34,0.568,0.5,real
+3,jideca_b05g01re_34,0.562,0.1,real
+4,jideca_b1g01re_34,0.552,0.1,real
+5,jideca_b01g1re_34,0.555,1,real
+6,jideca_b01g02re_34,0.52,0.2,real
+7,jideca_b05g02re_34,0.517,0.2,real
+8,jideca_b1g02re_34,0.527,0.2,real
+9,jideca_b05g05re_34,0.503,0.5,real
+10,jideca_b05g1re_34,0.472,1,real
+11,jideca_b1g10re_34,0.462,10,real
+12,jideca_b1g1re_34,0.455,1,real
+13,jideca_b05g10re_34,0.47,10,real
+14,jideca_b01g10re_34,0.36,10,real

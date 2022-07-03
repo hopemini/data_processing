@@ -1,0 +1,11 @@
+,parameters,ari,simple,types
+0,jideca_b02g01re_34,0.353,0.2,real
+1,jideca_b01g01re_34,0.312,0.1,real
+2,jideca_b10g01re_34,0.307,10,real
+3,jideca_b05g01se_34,0.299,0.5,semantic
+4,jideca_b02g01se_34,0.288,0.2,semantic
+5,jideca_b1g01se_34,0.273,1,semantic
+6,jideca_b01g01se_34,0.266,0.1,semantic
+7,jideca_b1g01re_34,0.248,1,real
+8,jideca_b10g01se_34,0.266,10,semantic
+9,jideca_b05g01re_34,0.249,0.5,real
