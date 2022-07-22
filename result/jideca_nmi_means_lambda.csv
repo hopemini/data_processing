@@ -1,0 +1,11 @@
+,parameters,nmi,simple,types,class
+0,jideca_b02g01l05re_34,0.593,0.5,real,R34
+1,jideca_b02g01l07re_34,0.578,0.7,real,R34
+2,jideca_b02g01l09re_34,0.575,0.9,real,R34
+3,jideca_b05g01l05re_23,0.579,0.5,real,C23
+4,jideca_b05g01l07re_23,0.548,0.7,real,C23
+5,jideca_b02g01l03re_34,0.464,0.3,real,R34
+6,jideca_b02g01l01re_34,0.419,0.1,real,R34
+7,jideca_b05g01l01re_23,0.381,0.1,real,C23
+8,jideca_b05g01l09re_23,0.297,0.9,real,C23
+9,jideca_b05g01l03re_23,0.194,0.3,real,C23
