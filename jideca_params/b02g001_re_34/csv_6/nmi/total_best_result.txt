@@ -1,0 +1,2 @@
+Total nmi Result Length : 1
+Top1 = jideca_b02g001re_34 : 0.601

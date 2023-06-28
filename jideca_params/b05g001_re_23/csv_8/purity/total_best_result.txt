@@ -1,0 +1,2 @@
+Total purity Result Length : 1
+Top1 = jideca_b05g001re_23 : 23.7%
