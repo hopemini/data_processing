@@ -1,0 +1,7 @@
+type,ARI,NMI,Purity
+seq2seq & real,0.221,0.532,0.32
+Tree & real,0.231,0.532,0.33
+seq2seq & semantic,0.363,0.646,0.475
+Tree & semantic,0.358,0.64,0.464
+seq2seq & Rico,0.396,0.64,0.512
+Tree & Rico,0.474,0.69,0.552
